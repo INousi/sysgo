@@ -1,0 +1,77 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  border: 0;
+}
+
+.brand{
+  margin-top: 50px;
+
+}
+img {
+  width: 30%;
+  height: 30%;
+  position: relative;
+  top: 20;
+  margin-top: 50px auto 0px;
+}
+
+body {
+  font-family: "helvetica";
+  font-size: 200%;
+  background: #fff8dc;
+}
+
+.header {
+  width: 35%;
+  margin: 25px auto 0px;
+  color: white;
+  background: #a5ba8a;
+  text-align: center;
+  border: 1px solid #B0C4DE;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+  padding: 20px;
+}
+form, .content {
+  width: 70%;
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid #B0C4DE;
+  background: #c6dbab;
+  border-radius: 0px 0px 10px 10px;
+}
+.input-client {
+  margin: 10px 0px 10px 0px;
+}
+.input-client label {
+  color: #008000;
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+.input-client input {
+  height: 30px;
+  width: 87%;
+  padding: 5px 10px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+.btn_confirm {
+  padding: 10px;
+  font-size: 20px;
+  color: #032149;
+  background: #b0c4de;
+  border: none;
+  border-radius: 5px;
+}
+.btn_cancel {
+  padding: 10px;
+  font-size: 20px;
+  color: #032149;
+  background: #b0c4de;
+  border: none;
+  border-radius: 5px;
+}
+
