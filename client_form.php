@@ -5,7 +5,7 @@
 <meta charset="utf-8">
   <title>Dreams Tourism</title>
   <meta name="author" content="Irene Nousiainen">
-  <link rel="stylesheet" type="text/css" href="clients_style.css">
+  <link rel="stylesheet" type="text/css" href="client_style.css">
   <link rel="icon" type="image/png" href="../images/dreams_tour.png">
 </head>
 
